@@ -1757,12 +1757,12 @@ setTimeout('document.getElementById("btn_ctime").style.display="none";',1000);
 																</option>
 																<option value="1.1.1.1#53">Cloudflare DNS (1.1.1.1)
 																</option>
-																<option value="1.0.0.1#53">Cloudflare DNS (1.0.0.1)
+																<option value="127.0.0.1#6057">SmartDNS (Port:6057)
 																</option>
-																<option value="114.114.114.114#53">Oversea Mode DNS-1
-																	(114.114.114.114)</option>
-																<option value="114.114.115.115#53">Oversea Mode DNS-1
-																	(114.114.115.115)</option>
+																<option value="101.6.6.6#5353">TUNA DNS (101.6.6.6)
+																</option>
+																<option value="127.0.0.1#6053">SmartDNS (Port:6053)
+																</option>
 															</select>
 														</td>
 													</tr>
